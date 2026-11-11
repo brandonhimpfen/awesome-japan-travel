@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in Japan, covering official tourism portals, rail networks, regional itineraries, digital tools, and cultural guides.
 
+Japan is a fascinating East Asian destination seamlessly blending ultra-modern urban innovation with ancient Shinto shrines, serene Zen gardens, and mountainous volcanic national parks. This list is intended for cultural travelers, rail-transit explorers, culinary tourists, and photography enthusiasts.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
